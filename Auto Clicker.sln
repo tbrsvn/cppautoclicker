@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Auto Clicker", "cppautoclicker-main\Auto Clicker.vcxproj", "{5E81B7E1-5145-4550-91F4-E1FAC9B8C0AE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Auto Clicker", "\Auto Clicker.vcxproj", "{5E81B7E1-5145-4550-91F4-E1FAC9B8C0AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
