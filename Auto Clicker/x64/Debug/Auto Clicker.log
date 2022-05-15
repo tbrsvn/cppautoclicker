@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\abrsv\Desktop\main.cpp(28,10): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  Auto Clicker.vcxproj -> C:\Users\abrsv\source\repos\Auto Clicker\x64\Debug\Auto Clicker.exe
