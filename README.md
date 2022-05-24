@@ -1,8 +1,10 @@
 # cppautoclicker
-I programmed a very fast autoclicker in C++!
+I did the tutorial by index: https://www.youtube.com/watch?v=yBkWsyYrWnQ all credit for the base of the project goes to him.
+
+I only tweaked and compiled this program.
 
 You MUST compile this program in visual studio because that is what I programmed this project in.
 
 If you have any ideas on how to improve this app tell me and I will see what I can do.
 
-This is my first project ever but there are many more to come!
+This is my first github page ever but there are many more to come!
