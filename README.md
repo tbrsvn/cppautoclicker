@@ -3,7 +3,7 @@ I did the tutorial by index: https://www.youtube.com/watch?v=yBkWsyYrWnQ all cre
 
 I only tweaked and compiled this program.
 
-You MUST compile this program in visual studio because that is what I programmed this project in.
+You MUST have visual studio installed to run and compile the source of this autoclicker
 
 If you are going to distribute this project please give credit to me and index.
 
